@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000
+    },
+    {
+      "name": "Sorvete de casquinha muito gostoso",
+      "price": "2.00",
+      "id": 4
+    }
+  ]
+}
